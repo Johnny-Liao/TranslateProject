@@ -5,7 +5,7 @@ LCTT 是“Linux中国”（[https://linux.cn/](https://linux.cn/)）的翻译�
 
 LCTT 已经拥有几百名活跃成员，并欢迎更多的Linux志愿者加入我们的团队。
 
-![logo](http://img.linux.net.cn/static/image/common/lctt_logo.png)
+![logo](https://linux.cn/static/image/common/lctt_logo.png)
 
 LCTT 的组成
 -------------------------------
@@ -56,6 +56,7 @@ LCTT 的组成
 * 2016/02/29 选题 DeadFire 病逝。
 * 2016/05/09 提升 PurlingNayuki 为校对。
 * 2016/09/10 LCTT 三周年。
+* 2016/12/24 拟定 LCTT [Core 规则](core.md)，并增加新的 Core 成员： @ucasFL、@martin2011qi，及调整一些组。
 
 活跃成员
 -------------------------------
@@ -63,8 +64,7 @@ LCTT 的组成
 目前 TP 活跃成员有：
 - Leader @wxy,
 - Source @oska874,
-- Proofreader @PurlingNayuki,
-- Proofreader @carolinewuyan,
+- Proofreaders @jasminepeng,
 - CORE @geekpi,
 - CORE @GOLinux,
 - CORE @ictlyh,
@@ -77,95 +77,95 @@ LCTT 的组成
 - CORE @alim0x,
 - CORE @tinyeyeser,
 - CORE @Locez,
+- CORE @ucasFL
+- CORE @martin2011qi
 - Senior @DeadFire,
 - Senior @reinoir222,
 - Senior @vito-L,
-- Senior @jasminepeng,
 - Senior @willqian,
 - Senior @vizv,
 - Senior @dongfengweixiao,
+- Senior @PurlingNayuki,
+- Senior @carolinewuyan,
+- cposture,
 - ZTinoZ,
-- martin2011qi,
 - theo-l,
 - Luoxcat,
+- GHLandy,
 - wi-cuckoo,
+- StdioA,
 - disylee,
-- haimingfg,
 - wwy-hust,
 - felixonmars,
 - KayGuoWhu,
 - mr-ping,
-- su-kaiyao,
-- StdioA,
 - wyangsun,
+- su-kaiyao,
 - ivo-wang,
-- GHLandy,
 - cvsher,
+- OneNewLife
 - DongShuaike,
 - flsf,
 - SPccman,
-- Stevearzh
+- Stevearzh,
+- bestony,
 - Linchenguang,
 - Linux-pdz,
 - 2q1w2007,
-- H-mudcup,
-- MikeCoder,
 - NearTan,
-- goreliu,
+- H-mudcup,
+- GitFuture,
+- MikeCoder,
 - xiqingongzi,
 - goreliu,
+- rusking,
+- jiajia9linuxer,
+- name1e5s,
 - TxmszLou,
 - ZhouJ-sh,
 - wangjiezhe,
 - icybreaker,
+- zky001,
 - vim-kakali,
 - shipsw,
+- LinuxBars,
 - Moelf,
-- name1e5s,
+- Chao-zhi
 - johnhoow,
 - soooogreen,
 - kokialoves,
 - linuhap,
-- GitFuture,
 - ChrisLeeGit,
 - blueabysm,
+- yangmingming,
 - boredivan,
 - yechunxiao19,
 - XLCYun,
 - KevinSJ,
-- zky001,
 - l3b2w1,
 - tenght,
+- firstadream,
 - coloka,
 - luoyutiantang,
 - sonofelice,
-- jiajia9linuxer,
 - scusjs,
 - woodboow,
 - 1w2b3l,
 - JonathanKang,
-- bestony,
 - crowner,
 - dingdongnigetou,
 - mtunique,
-- Rekii008,
 - hyaocuk,
 - szrlee,
-- Xuanwo,
 - nd0104,
-- xiaoyu33,
-- ynmlml,
-- Flowsnow,
-- ggaaooppeenngg,
-- mudongliang,
-- Tanete,
-- lfzark,
+- chenzhijun,
+- frankatlingingdigital,
+- willcoderwang,
 - liuaiping,
 - rogetfan,
 - JeffDing,
-- Yuking-net,
 
-（按增加行数排名前百，更新于2016/09/10）
+（按增加行数排名前百，更新于2016/12/24）
 
 谢谢大家的支持！
 
